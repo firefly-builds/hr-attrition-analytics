@@ -1,0 +1,12 @@
+department,jobrole,total,left_count,attrition_pct,avg_salary,avg_satisfaction
+Research & Development,Manager,54,3,5.56,17130.0,2.65
+Research & Development,Laboratory Technician,259,62,23.94,3237.0,2.69
+Sales,Sales Representative,83,33,39.76,2626.0,2.73
+Research & Development,Healthcare Representative,131,9,6.87,7529.0,2.79
+Research & Development,Research Director,80,2,2.5,16034.0,2.7
+Human Resources,Manager,11,0,0.0,18089.0,2.82
+Sales,Manager,37,2,5.41,16987.0,2.76
+Research & Development,Research Scientist,292,47,16.1,3240.0,2.77
+Sales,Sales Executive,326,57,17.48,6924.0,2.75
+Human Resources,Human Resources,52,12,23.08,4236.0,2.56
+Research & Development,Manufacturing Director,145,10,6.9,7295.0,2.68
