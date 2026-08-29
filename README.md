@@ -3,7 +3,7 @@
 **Business question:** Why are employees leaving — and which teams are at risk next?
 
 ## Live Dashboard
-[View on Tableau Public](YOUR_TABLEAU_URL_HERE)
+[View on Tableau Public](https://public.tableau.com/views/HRAttritionAnalysisIBMDataset/Dashboard1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 
 ## Summary
 Analyzed IBM HR Analytics dataset (1,470 employees) to identify attrition 
