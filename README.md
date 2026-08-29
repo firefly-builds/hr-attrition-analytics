@@ -29,8 +29,3 @@ SQL analysis, Python (pandas) for EDA, Tableau Public for KPI dashboard.
 - `python/hr_eda.ipynb` — EDA notebook with visualizations
 - `exports/` — CSV files used for Tableau dashboard
 - `docs/` — findings memo (coming soon)
-
-## Resume Bullet
-Analyzed HR attrition across 1,470 employees using PostgreSQL and Tableau; 
-identified Human Resources as highest-risk department at 20.63% attrition, 
-with overtime burden and $2,045 salary gap as primary drivers.
